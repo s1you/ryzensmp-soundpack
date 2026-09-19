@@ -1,0 +1,10 @@
+{
+  "ryzensmp.takasu": {
+    "sounds": [
+      {
+        "name": "minecraft:takasu",
+        "stream": true
+      }
+    ]
+  }
+}
