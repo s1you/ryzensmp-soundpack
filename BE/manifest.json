@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "RYZENSMP Sound Pack",
+    "description": "RYZENSMP Custom Sounds",
+    "uuid": "7329b7af-c70e-45a2-0c04-4bdbaab05e02",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a2f54920-7293-d24d-f3af-26cc8b27af22",
+      "version": [1, 0, 0]
+    }
+  ]
+}
